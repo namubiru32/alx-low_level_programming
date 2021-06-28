@@ -1,0 +1,1 @@
+Holberton.h: file with prototypes of all functions 
