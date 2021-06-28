@@ -1,1 +1,2 @@
-Holberton.h: file with prototypes of all functions 
+Holberton.h: file with prototypes of all functions
+a function that takes a pointer to an int as parameter and updates the value it points to to 98.
