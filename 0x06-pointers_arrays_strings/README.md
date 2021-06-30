@@ -8,3 +8,4 @@ file 5; a function that changes all lowercase letters of a string to uppercase.
 file 6; a function that capitalizes all words of a string.
 file 7; a function that encodes a string into 1337.
 file 8; a function that encodes a string using rot13.
+file 9; a function that prints an integer.
