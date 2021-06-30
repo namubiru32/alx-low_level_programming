@@ -11,3 +11,5 @@ file 8; a function that encodes a string using rot13.
 file 9; a function that prints an integer.
 file 10;  program prints a[2] = 98, followed by a new line.
 file 12;  a function that adds two numbers.
+file 13;  function that prints a buffer.
+
