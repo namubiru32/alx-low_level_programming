@@ -5,3 +5,4 @@ file 2;  a function that locates a character in a string.
 file 3; a function that gets the length of a prefix substring.
 file 4; a function that searches a string for any of a set of bytes.
 file 5; a function that locates a substring.
+file 6;  a function that prints the chessboard.
