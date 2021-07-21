@@ -6,3 +6,4 @@ file 3 a;  a program that performs simple operations.
 file 3 b; file should contain the 5 following functions (not more):
 file 3 c; part of file with a program that performs simple operations.
 file 3 d; part of file with a program that performs simple operations.
+file 4;   a program that prints the opcodes of its own main function.
